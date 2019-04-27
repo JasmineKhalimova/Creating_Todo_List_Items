@@ -46,6 +46,16 @@ Map method is high order array method.
 
 - PopTypes is the validations that components should have.
 
+- using https://jsonplaceholder.typicode.com/ to get http request 
+
+** NEED TO INSTAL UUID
+
+##npm i uuid
+
+** NEED TO INSTAL Axios 
+
+##npm i axios
+
 To run: `npm start`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -54,6 +64,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Launches the test runner in the interactive watch mode.<br>
 
+To create a production build, use npm run build.
+
 ### `npm run build`
 
 ### `npm run eject`
+
+
